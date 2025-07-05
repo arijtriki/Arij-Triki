@@ -1,4 +1,4 @@
-**bold text**
+**# Arij-Triki**
 # Arij-Triki
 ## My personal repository
 
